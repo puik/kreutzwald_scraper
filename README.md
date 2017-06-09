@@ -32,5 +32,5 @@ Testimiseks kasutasin konsooli printimist, samuti oli mugav, et piltide loend ol
 
 Ajakulu arvestamiseks kasutasin [**Toggl**](https://toggl.com)'i. Reaalsele programmeerimisele kulus umbes 7,5 h, osa Kreutzwaldi sajandi platvormiga tutvumise aega jäi algul ka träkkimata.
 
-##Kokkuvõte
+## Kokkuvõte
 Kui tundus, et programm 25 pildiga saab hakkama, siis andsin programmile ette ka [kogu fotokogu urli](http://krzwlive.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?table=Scans&page=all). Kulus üle poole tunni, aga tulemuseks sain kätte CSV-faili, milles ligi 11 000 rida andmeid, mis tegi tuju heaks, sest olin saavutanud tulemuse, mida soovisin.
