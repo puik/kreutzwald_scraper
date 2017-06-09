@@ -1,7 +1,8 @@
 # Veebiportaali Kreutzwaldi sajand pildifailide ja -info _scraper_
 Kirjutasin programmi Tartu Ülikooli veebipõhise programmeerimiskursuse [Programmeerimise alused II](https://courses.cs.ut.ee/2017/eprogalused2/) projektina.
 
-##Programmi eesmärk
+
+## Programmi eesmärk
 Tegelen ajalooliste piltide ühisloome korras kaardistamise platvormi [Ajapaik.ee](https://ajapaik.ee) arendamisega (projektijuhi, mitte programmeerijana) ning sellega seoses tunnen huvi ka igasugu muude pildilist kultuuripärandit sisaldavate veebirakenduste vastu. Juba ammu olen mõlgutanud mõtteid mitmest allikast andmete _scrape_'imisest ning nüüd otsustasin siinse kursuse raames teha midagi, mis juba hangiks mulle huvipakkuvat infot. 
 
 Esialgu pidasin silmas ühte teist veebiplatvormi, aga lõpuks otsustasin kätt proovida Eesti Kirjandusmuuseumi kultuuriloolise veebiportaaliga [**Kreutzwaldi sajand**](http://kreutzwald.kirmus.ee/). Portaalis on eraldi **kogude** alajaotus, milles omakorda [**fotode** rubriik](http://krzwlive.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?table=Scans). Rubriik on pagineeritud 25 pildi kaupa, aga nupust *Vaata kõiki* kuvatakse [kogu fotokogu korraga](http://krzwlive.kirmus.ee/et/lisamaterjalid/ajatelje_materjalid?table=Scans&page=all).
